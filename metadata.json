@@ -1,0 +1,7 @@
+{
+  "name": "Copy of كاشير بلس",
+  "description": "نظام احترافي لإدارة المخزون ونقطة البيع مع دعم الأوفلاين والنسخة الاحترافية.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
